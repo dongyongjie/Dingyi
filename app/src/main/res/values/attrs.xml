@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="bigRadius" format="float"></attr>
+        <attr name="smallRadius" format="float"></attr>
+        <attr name="bigColor" format="color"></attr>
+        <attr name="textSize" format="float"></attr>
+        <attr name="rect" format="float"></attr>
+
+    </declare-styleable>
+
+
+
+</resources>
